@@ -1,12 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.213,=C:\Users\Maarit\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.980,=C:\Users\Maarit\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.633,=C:\Users\Maarit\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022.04.21 13:56:31.980,=C:\Users\Maarit\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022.04.21 13:56:56.632,C:\Users\Maarit\AppData\Roaming\Microsoft\Windows\Network Shortcuts\testi.dfm=C:\Users\Maarit\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2022.04.21 13:56:56.632,C:\Users\Maarit\AppData\Roaming\Microsoft\Windows\Network Shortcuts\testi.pas=C:\Users\Maarit\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022.04.21 13:57:17.114,C:\Users\Maarit\AppData\Roaming\Microsoft\Windows\Network Shortcuts\testiohjelma.dproj=C:\Users\Maarit\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
-    <Transaction>2022.04.21 13:58:22.735,C:\maaritgit\testi\testiohjelma.dproj=C:\Users\Maarit\AppData\Roaming\Microsoft\Windows\Network Shortcuts\testiohjelma.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.114,C:\Users\Maarit\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Maarit\AppData\Roaming\Microsoft\Windows\Network Shortcuts\testiohjelma.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.632,C:\Users\Maarit\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Maarit\AppData\Roaming\Microsoft\Windows\Network Shortcuts\testi.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.213,=C:\Users\Maarit\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.735,C:\Users\Maarit\AppData\Roaming\Microsoft\Windows\Network Shortcuts\testiohjelma.dproj=C:\maaritgit\testi\testiohjelma.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.632,C:\Users\Maarit\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Maarit\AppData\Roaming\Microsoft\Windows\Network Shortcuts\testi.dfm</Transaction>
+    <Transaction>2022.04.26 15:31:07.870,C:\maaritgit\testi\testi.pas=C:\Users\Maarit\AppData\Roaming\Microsoft\Windows\Network Shortcuts\testi.pas</Transaction>
+    <Transaction>2022.04.26 15:31:07.871,C:\maaritgit\testi\testi.dfm=C:\Users\Maarit\AppData\Roaming\Microsoft\Windows\Network Shortcuts\testi.dfm</Transaction>
   </Transactions>
 </BorlandProject>

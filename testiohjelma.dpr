@@ -2,7 +2,7 @@ program testiohjelma;
 
 uses
   Vcl.Forms,
-  testi in 'C:\Users\Maarit\AppData\Roaming\Microsoft\Windows\Network Shortcuts\testi.pas' {Form1};
+  testi in 'testi.pas' {Form1};
 
 {$R *.res}
 
